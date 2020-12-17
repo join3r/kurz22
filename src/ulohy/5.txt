@@ -1,0 +1,6 @@
+hydrant,nič,Windows 3.11
+firestorm,krtko,Linux (bez mikrofónu)
+osiris,20 mačiek,Intel 5 Ghz Wireless slúchadlá
+evie,zlý zajac,HP turbo počítač 2000
+bachi,manželka,zaprášený Commodore 64
+join3r,dobrý zajac,McBook with fries
